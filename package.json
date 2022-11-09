@@ -20,12 +20,24 @@
   "bugs": {
     "url": "https://github.com/CoffeeEyes28/2022-Portfolio/issues"
   },
-  "homepage": "https://CoffeeEyes28.github.io.my-app",
+  "homepage": "https://coffeeeyes28.github.io/2022-Portfolio",
   "dependencies": {
     "dotenv": "^16.0.3",
     "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
