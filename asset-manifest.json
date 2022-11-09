@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/2022-Portfolio/static/js/main.88b7c9b3.js",
-    "index.html": "/2022-Portfolio/index.html",
-    "main.88b7c9b3.js.map": "/2022-Portfolio/static/js/main.88b7c9b3.js.map"
+    "main.js": "/static/js/main.88b7c9b3.js",
+    "index.html": "/index.html",
+    "main.88b7c9b3.js.map": "/static/js/main.88b7c9b3.js.map"
   },
   "entrypoints": [
     "static/js/main.88b7c9b3.js"
