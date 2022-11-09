@@ -1,8 +1,8 @@
 import React from 'react';
-import Hello from './components/Hello'
+import Display from './components/Display'
 
 function App (){
-    return <Hello />
+    return <Display />
 }
 
 export default App;
