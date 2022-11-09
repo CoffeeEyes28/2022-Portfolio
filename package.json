@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/CoffeeEyes28/2022-Portfolio/issues"
   },
-  "homepage": "https://gregory-johnston.dev",
+  "homepage": "https://coffeeeyes28.github.io/2022-Portfolio/",
   "dependencies": {
     "dotenv": "^16.0.3",
     "gh-pages": "^4.0.0",
