@@ -9,17 +9,16 @@ export default function Header(){
 
 
     return(
-      
-      <Title>Gregory Johnston</Title>,
+      <header>
+        
+      <Title>Gregory Johnston</Title>
       
       <NavBar />
-    
+      </header>
     )
 }
 
-const Header = styled.header`
 
-`
 const Title = styled.h1`
 font-size: 2em;
 `

@@ -28,6 +28,7 @@ export default function navBar(){
             <li>Home</li>
             <li>About</li>
             <li>Projects</li>
+            <li>Resume</li>
             <li>Contact</li>
         </ul>
       </nav>

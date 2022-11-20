@@ -15,8 +15,8 @@ function App (){
 
 const Container = styled.div`
 background-image: url(${background});
-backgroundSize: cover;
-backgroundRepeat: no-repeat;
+background-size: cover;
+background-repeat: no-repeat;
 `
 
 export default App;
