@@ -4,7 +4,7 @@ import Linked from '../Assets/Images/Socials/linkedin.png'
 import Stack from '../Assets/Images/Socials/stackoverflow.png'
 
 
-// hello from a mac 
+// hello from a mac again
 
 
 
