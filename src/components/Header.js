@@ -1,6 +1,18 @@
+import { style } from '@mui/system'
 import React from 'react'
-import styled from 'styled-components'
 import NavBar from './NavBar'
+
+const styles = {
+  header: {
+    marginLeft: '10px'
+  },
+  h1: {
+    fontSize: '2em'
+  }
+}
+
+
+
 
 export default function Header(){
 
@@ -9,9 +21,9 @@ export default function Header(){
 
 
     return(
-      <header>
+      <header style={styles.header}>
         
-      <Title>Gregory Johnston</Title>
+      <h1 style={styles.h1}>Gregory Johnston</h1>
       
       <NavBar />
       </header>
@@ -19,6 +31,3 @@ export default function Header(){
 }
 
 
-const Title = styled.h1`
-font-size: 2em;
-`
