@@ -1,22 +1,25 @@
 import React from 'react';
 import Display from './components/Display'
 import background from './Assets/Images/background1.jpg'
-import styled from 'styled-components'
+
+const styles = {
+    container: {
+    backgroundImage: `url(${background})`, 
+    backgroundSize: 'cover',
+    backgroundRepeat: 'no-repeat',
+    },
+}
 
 function App (){
     return( 
-        <Container>
+        <div style={styles.container}>
          <Display />
-        </Container>
+        </div>
         
     );
 }
 
 
-const Container = styled.div`
-background-image: url(${background});
-background-size: cover;
-background-repeat: no-repeat;
-`
+
 
 export default App;
